@@ -2,7 +2,7 @@ using Printf
 
 const STREAM_ARRAY_SIZE = 1_000_000_000
 const OFFSET = 0
-const NTIMES = 100
+const NTIMES = 10
 const scalar = 3.0
 const label = ["Copy:\t", "Scale:\t", "Add:\t", "Triad:\t"]
 const bytes = [
